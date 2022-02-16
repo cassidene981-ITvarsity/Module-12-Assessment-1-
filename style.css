@@ -1,0 +1,39 @@
+p{
+  
+   text-align: center;
+   background-position: center;
+   font-family: Helvetica, sans-serif;
+   font-size: 20px;
+   background-position-y: center;
+   background-position-x: center;
+   color: whitesmoke;
+   background-color: dimgrey ;
+   
+}
+a{
+    text-align: center;
+    font-style: inherit;
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;   
+    text-transform: uppercase;
+    font-size: 20px;    
+    color: white;
+    display: block;
+   
+}
+body{
+    text-align: center;
+    background-image:url('images/download.jpg') ;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}   
+form{
+    background-position: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    background-size: contain;
+   color: whitesmoke;
+   background-color: dimgrey;
+    
+}
+  
